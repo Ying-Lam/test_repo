@@ -5,3 +5,14 @@ hello again
 version 1.1 hehexd
 
 changes made in my remote repo, ready to be pulled.
+
+version 1.2. 
+git init 
+git add*// staging area
+git commit -m"" //commit msg
+git status
+git checkout <branch name> //switch to diff branch
+git checkout -b <branch name>// checkout and create branch
+git merge <branch name> //Merge <branch name> changes into current branch
+
+
