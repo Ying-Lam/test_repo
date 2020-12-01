@@ -7,12 +7,13 @@ version 1.1 hehexd
 changes made in my remote repo, ready to be pulled.
 
 version 1.2. 
-git init 
-git add*// staging area
+git init //set up local repo in file
+git add*// add to staging area, ready to commit 
 git commit -m"" //commit msg
 git status
 git checkout <branch name> //switch to diff branch
 git checkout -b <branch name>// checkout and create branch
 git merge <branch name> //Merge <branch name> changes into current branch
-
+git push <remote_URL/remote_name> <branch> // push changes to remote
+git pull <branch_name> <remote_URL/remote_name> // pull changes from remote repo to local 
 
